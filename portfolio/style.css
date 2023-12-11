@@ -71,14 +71,12 @@ h2{
     margin: 20px 0px 20px;
     font-size: 75px;
 }
-.contact  p{
-    color: #1162ad;
-    letter-spacing: 1px;
-    line-height: 28px;
-    font-size: 18px;
-    margin-bottom: 45px;
-
+span{
+    color: white;
 }
+ h3{
+    color: #51a5f3;
+ }
 
 .newslatter form input:first-child{
     display: inline-block;
